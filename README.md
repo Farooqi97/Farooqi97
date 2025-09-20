@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Farooqi  
+# 👋 Hi, I’m Abdul_Farooqi  
 
 ## 👨‍💻 About Me  
 Data Scientist with a Master’s in Data Science from TU Dortmund and hands-on experience in both research and industry. Skilled in Python (NumPy, Pandas, PyTorch, scikit-learn, spaCy), R, SQL, Power BI, and Azure, I specialize in transforming complex data into actionable insights through machine learning, Bayesian modeling, and advanced statistical analysis.  
