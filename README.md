@@ -3,7 +3,7 @@
 ## 👨‍💻 About Me  
 Data Scientist with a Master’s in Data Science from TU Dortmund and hands-on experience in both research and industry. Skilled in Python (NumPy, Pandas, PyTorch, scikit-learn, spaCy), R, SQL, Power BI, and Azure, I specialize in transforming complex data into actionable insights through machine learning, Bayesian modeling, and advanced statistical analysis.  
 
-My experience spans building semantic search pipelines with LLMs, database architecture and ERD design, and developing interactive dashboards for cross-functional teams. I’ve applied statistical methods such as time series forecasting, changepoint detection, clustering, and MANOVA across real-world datasets, alongside projects in hypothesis testing, generalization, and cognitive modeling.  
+My experience spans building semantic search with LLMs, database architecture and ERD design, and developing interactive dashboards for cross-functional teams. I’ve applied statistical methods such as time series forecasting, changepoint detection, clustering, and MANOVA across real-world datasets, alongside projects in hypothesis testing, generalization, and cognitive modeling.  
 
 Additional technical strengths include Terraform, DBT, LaTeX, Linux, and front-end integration (HTML, CSS). I enjoy bridging technical depth with business needs, making data-driven solutions both accessible and impactful. Passionate about problem-solving, I thrive in collaborative environments where innovation meets practical application.  
 
