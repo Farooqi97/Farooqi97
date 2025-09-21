@@ -21,8 +21,8 @@ This experience gave me the chance to collaborate with cross-functional teams, b
 
 ---
 
-## 🔥 Current Work  
-**Confidential – Project of Konzerthaus Dortmund 🦏**
+## 🔥 Current Work 
+** CET | Confidential – Project of Konzerthaus Dortmund 🦏**
 
 ---
 
