@@ -15,7 +15,7 @@ What I really enjoy is connecting technical depth with practical needs: breaking
 
 ## 🛠️ Experience  
 
-### Volocopter (Mar 2022 – Feb 2024) 🛰
+### Volocopter (Mar 2022 – Feb 2024)
 At Volocopter, I worked on data analysis projects across **Procurement, Finance, Quality Assurance, Jira, Weather, and OVEN systems**. My role involved digging into diverse datasets, identifying patterns, and providing insights that supported both operational and strategic decisions.  
 This experience gave me the chance to collaborate with cross-functional teams, bridge technical analysis with business goals, and sharpen my ability to adapt methods and workflows depending on the problem at hand.  
 
