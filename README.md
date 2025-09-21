@@ -1,13 +1,13 @@
 # 👋 Hi, I’m Abdul_Farooqi  
 
 ## 👨‍💻 About Me  
-I’m a Data Scientist with a Master’s in Data Science from TU Dortmund. Over the years, I’ve had the chance to work across both research and industry, where I learned that my real strength isn’t just writing code — it’s making sense of data, asking the right questions, and turning messy numbers into something that tells a clear story.
+I’m a Data Scientist with a Master’s in Data Science from TU Dortmund. Over the years, I’ve had the chance to work across both research and industry, where I learned that my real strength isn’t just writing code, it’s making sense of data, asking the right questions, and turning messy numbers into something that tells a clear story.
 
-I work mainly with Python (NumPy, Pandas, PyTorch, scikit-learn, spaCy), R, SQL, Power BI, and Azure. While I wouldn’t call myself a “programming wizard,” I know how to use the right tools and methods to move projects forward — whether that’s through machine learning, Bayesian modeling, or statistical analysis.
+I work mainly with Python (NumPy, Pandas, PyTorch, scikit-learn, spaCy), R, SQL, Power BI, and Azure. While I wouldn’t call myself a “programming wizard,” I know how to use the right tools and methods to move projects forward, whether that’s through machine learning, Bayesian modeling, or statistical analysis.
 
 Some projects I’ve enjoyed include building semantic search with LLMs, designing database structures, and creating dashboards that actually get used by teams. I’ve applied techniques like time series forecasting, changepoint detection, clustering, and MANOVA on real-world data, and worked on areas like hypothesis testing, generalization, and cognitive modeling.
 
-On the side, I’ve picked up tools like Terraform, DBT, LaTeX, Linux, and a bit of front-end (HTML, CSS) — not as an expert, but enough to bridge gaps and get things working.
+On the side, I’ve picked up tools like Terraform, DBT, LaTeX, Linux, and a bit of front-end (HTML, CSS), not as an expert, but enough to bridge gaps and get things working.
 
 What I really enjoy is connecting technical depth with practical needs: breaking down problems, analyzing them step by step, and finding solutions that are both useful and easy to understand. For me, data science is less about showing off complicated models and more about creating insights that matter.
 
