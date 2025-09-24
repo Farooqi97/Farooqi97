@@ -1,7 +1,7 @@
 # 👋 Hi, I’m Abdul_Farooqi  
 
 ## 👨‍💻 About Me  
-I’m a Data Scientist with a Master’s in Data Science from TU Dortmund. Over the years, I’ve had the chance to work across both research and industry, where I learned that my real strength isn’t just writing code, it’s making sense of data, asking the right questions, and turning messy numbers into something that tells a clear story.
+I’m a Data Scientist currently completing a Master’s in Data Science at TU Dortmund. Over the years, I’ve had the chance to work across both research and industry, where I learned that my real strength isn’t just writing code, it’s making sense of data, asking the right questions, and turning messy numbers into something that tells a clear story.
 
 I work mainly with Python (NumPy, Pandas, PyTorch, scikit-learn, spaCy), R, SQL, Power BI, and Azure. While I wouldn’t call myself a “programming wizard,” I know how to use the right tools and methods to move projects forward, whether that’s through machine learning, Bayesian modeling, or statistical analysis.
 
